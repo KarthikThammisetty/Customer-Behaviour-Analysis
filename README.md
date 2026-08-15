@@ -19,7 +19,7 @@ Tools & Technologies
 * NumPy — Numerical operations
 * Matplotlib / Seaborn — Data visualization
 * SQL — Data querying and analysis
-* PostgreSQL / MySQL / SQL Server — Database analysis
+* MySQL — Database analysis
 * Power BI — Interactive dashboard and visualization
 * Jupyter Notebook — Python-based analysis
 
@@ -91,13 +91,6 @@ Dashboard
 
 The Power BI dashboard provides an interactive view of the major findings from the analysis.
 
-Dashboard Preview:
-
-Add your Power BI dashboard screenshot here.
-
-Example:
-
-![Power BI Dashboard](images/dashboard.png)
 
 Key Insights
 
